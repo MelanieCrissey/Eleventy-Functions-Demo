@@ -5,7 +5,8 @@ layout: layouts/base.njk
 ---
 
 ## Something fun
-- [Fetch a joke, please](/.netlify/functions/fetch-joke)
+
+<a class="demo-fetch" style="background-color: #DED612; border-radius: 5px; display: block; color: #1A2B91; padding: 15px; font-weight: bold;" href="/.netlify/functions/fetch-joke">Fetch a joke</a>
 
 (Very funny)
 
