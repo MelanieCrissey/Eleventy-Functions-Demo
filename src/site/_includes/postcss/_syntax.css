@@ -40,7 +40,7 @@
      padding: 1em;
      margin: 2em 0;
      overflow: auto;
-     background-color: mix($text-color,$accent-color, 80%);
+     background-color: #f5f9ff;
  }
 
 
@@ -49,7 +49,7 @@
  .token.prolog,
  .token.doctype,
  .token.cdata {
-     color: #7e94ac;
+     color: #1A2B91;
      font-style: italic;
  }
 
