@@ -1,11 +1,13 @@
 ---
-title: EleventyOne
+title: WebperfForFun
 subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but adapted by <a href="https://twitter.com/MelanieCrissey">Melanie</a> who found this useful! 
 layout: layouts/base.njk
 ---
 
+## Something fun
+- [Fetch a joke, please](/.netlify/functions/fetch-joke)
 
-## This site is a starting point
+## Starting point info
 
 From this point we should already have:
 
