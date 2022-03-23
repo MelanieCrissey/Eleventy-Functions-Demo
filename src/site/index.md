@@ -7,6 +7,8 @@ layout: layouts/base.njk
 ## Something fun
 - [Fetch a joke, please](/.netlify/functions/fetch-joke)
 
+(Very funny)
+
 ## Starting point info
 
 From this point we should already have:
